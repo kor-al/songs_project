@@ -1,4 +1,4 @@
-# songs project: Russian lyrics analysis
+# Songs Project: Russian lyrics analysis
 
 Lyrics of Russian artists are clustered using K-means and PCA.
 
